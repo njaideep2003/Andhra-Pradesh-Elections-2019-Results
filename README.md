@@ -1,4 +1,4 @@
-# Andhra-Pradesh-Elections-2019
+# Andhra-Pradesh-Elections-2019-Results
 ### This repository consists of Data visualizations of Andhra Pradesh Elections in the year 2019.
 ### `AP Elections visualizations.ipynb - Colab.pdf` file contains all the Visualizations that I did.
 ### 1. Handling Datasets:
@@ -21,6 +21,7 @@
 
 
 
+### Contact me at nutalapatijaideep18@gmail.com 
 
 
 
