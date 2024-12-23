@@ -18,6 +18,7 @@
 - Total Votes by each Constituency in 2019 using barplot.
 - Candidates category frequency by sex using a Co-relation heat map.
 - Map of 2019 Andhra Pradesh Assembly Election Results by party.
+- Donut chart showing the percentage of seats won by each party.
 
 
 
